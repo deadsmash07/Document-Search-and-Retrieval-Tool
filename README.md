@@ -1,8 +1,5 @@
 Document Processing Tool
-This is a project for the course COL106: Data Structures and Algorithms, Semester-I 2023–2024 at IIT Delhi1. The goal of this project is to create a natural language-based question answering system that can process a given corpus of documents and answer any query posed by the user2.
 
-Motivation
-The motivation behind this project is to learn and apply the concepts of data structures and algorithms to a real-world problem. The problem of document processing is relevant and challenging in the field of natural language processing, as it involves handling large amounts of text data, performing efficient search and retrieval operations, and providing accurate and relevant answers to the user.
 
 Problem Statement
 The problem statement of this project is as follows:
